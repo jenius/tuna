@@ -1749,6 +1749,8 @@
         define("Tuna", [], function () {
             return Tuna;
         });
+    } else if (typeof module === "object") {
+        module.exports = Tuna;
     } else {
         window.Tuna = Tuna;
     }
