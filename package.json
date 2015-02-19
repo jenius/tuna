@@ -1,0 +1,16 @@
+{
+  "name": "tuna",
+  "version": "1.0.0",
+  "description": "An audio effects library for Web Audio",
+  "main": "tuna.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jenius/tuna.git"
+  },
+  "author": "Dinahmoe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jenius/tuna/issues"
+  },
+  "homepage": "https://github.com/jenius/tuna"
+}
